@@ -2,63 +2,18 @@
 
 [test1](#test1)  
 [test2](#test2)  
-a  
-a  
-a  
-a  
-a  
-a  a  
-a  
-a  
-a  
-a  
-a  
 
+- 変数の説明  
 
+| 行数 |  変数  | 説明|
+| ---- | ---- |---|
+|  1  |  test  |ファイルのパス名|
+|  8  | test2  |インストールしたファイルの場所| 
 
 
 
 
 # test1
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-
-
-
 
 
 # test2
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
